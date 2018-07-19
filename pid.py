@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# code to simulate a pid loop under various models for plant/process
+# and various PID parameter tunings
+
+
 from datetime import datetime
 
 import numpy as np
